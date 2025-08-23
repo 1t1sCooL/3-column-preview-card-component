@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Vercel](https://stats-preview-card-component-swart-kappa.vercel.app/)
+- Solution URL: [Vercel](https://3-column-preview-card-component-nine-inky.vercel.app/)
 - Live Site URL: [mmalabugin.ru/3ColumnPreviewCardComponent](https://mmalabugin.ru/3ColumnPreviewCardComponent/)
 
 ## My process
