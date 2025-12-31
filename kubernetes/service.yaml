@@ -1,11 +1,11 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: 3-column-preview-card-component
+  name: three-column-preview-card-component
   namespace: default
 spec:
   selector:
-    app: 3-column-preview-card-component-app
+    app: three-column-preview-card-component-app
   ports:
     - port: 80
       targetPort: 80

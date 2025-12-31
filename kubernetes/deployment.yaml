@@ -1,21 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: 3-column-preview-card-component-app
+  name: three-column-preview-card-component-app
   namespace: default
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: 3-column-preview-card-component-app
+      app: three-column-preview-card-component-app
   template:
     metadata:
       labels:
-        app: 3-column-preview-card-component-app
+        app: three-column-preview-card-component-app
     spec:
       containers:
-        - name: 3-column-preview-card-component-app
-          image: 3-column-preview-card-component-app:latest
+        - name: three-column-preview-card-component-app
+          image: three-column-preview-card-component-app:latest
           ports:
             - containerPort: 80
           env:
