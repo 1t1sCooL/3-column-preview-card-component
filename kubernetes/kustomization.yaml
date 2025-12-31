@@ -7,6 +7,6 @@ resources:
   - ingress.yaml
 
 images:
-  - name: 3-column-preview-card-component-app
-    newName: 3-column-preview-card-component-app
+  - name: three-column-preview-card-component-app
+    newName: three-column-preview-card-component-app
     newTag: latest
