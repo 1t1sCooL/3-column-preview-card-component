@@ -7,18 +7,18 @@
 }
 @font-face {
   font-family: 'Lexend Deca';
-  src: url('assets/fonts/Lexend_Deca/LexendDeca-VariableFont_wght.ttf') format('truetype');
+  src: url('/fonts/Lexend_Deca/LexendDeca-VariableFont_wght.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
+  font-display: optional;
 }
 @font-face {
   font-family: 'Big Shoulders';
-  src: url('assets/fonts/Big_Shoulders/BigShoulders-VariableFont_opsz,wght.ttf')
+  src: url('/fonts/Big_Shoulders/BigShoulders-VariableFont_opsz,wght.ttf')
   format('truetype');
   font-weight: 700;
   font-style: normal;
-  font-display: swap;
+  font-display: optional;
 }
 * {
   margin: 0;
